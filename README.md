@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansarimohammedmujtaba" alt="ansarimohammedmujtaba" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [momujtaba.netlify.app](momujtaba.netlify.app)
+- 👨‍💻 All of my projects are available at [momujtaba.netlify.app](mohammedmujtaba.netlify.app)
 
 - 💬 Ask me about **Python, MS Azure, Java, MySQL, Databricks, Pyspark, Azure Data Platoforms.**
 
