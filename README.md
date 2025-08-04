@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mujtaba</h1>
-<h3 align="center">Detail Oriented Programmer</h3>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ansarimohammedmujtaba" alt="ansarimohammedmujtaba" />
-  </a>
-</p>
 
 - 👨‍💻 All of my projects are available at [mohammedmujtaba.netlify.app](https://mohammedmujtaba.netlify.app)  
 - 💬 Ask me about **Python, MS Azure, Java, MySQL, Databricks, Pyspark, Azure Data Platforms.**  
